@@ -9,8 +9,10 @@ I am a 14-year-old developer building products across iOS, web, backend systems,
 | Project | What it does | Stack |
 | --- | --- | --- |
 | [Clavix](https://github.com/SansarKarki/clavix) | Turns overnight market changes into a holding-aware risk briefing. | SwiftUI, FastAPI, PostgreSQL |
+| Concord *(private)* | A health companion that pulls from HealthKit and Health Connect, lets you log symptoms carefully, and turns scattered data into a summary you could hand to a doctor. | Flutter, Dart, HealthKit |
 | [VarFoot](https://github.com/SansarKarki/varfoot) | Builds a measurable route from a player's current level to varsity benchmarks. | Next.js, TypeScript, Supabase, Gemini |
 | [WC2026 Predictor](https://github.com/SansarKarki/wc2026-predictor) | Prices World Cup matches and evaluates the model against market probabilities. | Python, Dixon-Coles, XGBoost |
+| Walter *(no public repo)* | Four years of building robots, from a bipedal Raspberry Pi walker with local speech to a rolling arm that ran a small language model on-device. | Python, Raspberry Pi, Orange Pi, local LLMs |
 
 ## Coding this month
 
